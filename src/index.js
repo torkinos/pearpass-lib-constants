@@ -31,7 +31,9 @@ export { PROTECTED_VAULT_ENABLED } from './constants/flags'
 export {
   BLIND_PEERS_LEARN_MORE,
   PRIVACY_POLICY,
-  TERMS_OF_USE
+  TERMS_OF_USE,
+  APP_STORE_URL,
+  PLAY_STORE_URL
 } from './constants/pearpassLinks'
 
 export {
