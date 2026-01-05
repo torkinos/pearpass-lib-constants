@@ -1,0 +1,3 @@
+const MAX_IMPORT_RECORDS = 10000
+
+export { MAX_IMPORT_RECORDS }

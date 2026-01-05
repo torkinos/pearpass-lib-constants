@@ -68,3 +68,5 @@ export {
 export { MAX_FILE_SIZE_MB, MAX_FILE_SIZE_BYTES } from './constants/fileSize'
 
 export { CLIPBOARD_CLEAR_TIMEOUT } from './constants/clipboard'
+
+export { MAX_IMPORT_RECORDS } from './constants/import'
